@@ -1,10 +1,10 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { useNavigate, useParams } from 'react-router-dom';
-import './Room.scss';
 import roomIcon from '../../assets/icons/room-icon.png';
-import Canvas from '../../components/Canvas/Canvas';
+import Canvas from '../../components/canvas/Canvas';
 import { deleteRoom } from '../../reducers/roomSlice';
+import './Room.scss';
 
 const Room = () => {
     const dispatch = useDispatch();
