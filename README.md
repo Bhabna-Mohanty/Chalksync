@@ -9,4 +9,3 @@ A collaborative whiteboard application built using MERN stack in which you can c
 3. Database - MongoDB
 4. Collaborative Feature - Socket.io
 
-Fully Designed & Developed By - Avinash Dubey.
